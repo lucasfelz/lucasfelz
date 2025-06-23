@@ -2,7 +2,7 @@
 
 **`Pentester em formação`**
 
-Me chamo Lucas Silva Felz, tenho 28 anos. Nascido em Vila Velha - ES. Sou bacharel em psicologia, especialista em psicologia analítica. Estou migrando para a área de cybersecurity com o objetivo de me desenvolver como pentester.
+Me chamo Lucas Silva Felz, tenho 28 anos. Nascido em Vila Velha - ES. Estudante de offensive security, graduando em Análise e Desenvolvimento de Sistemas. Sou bacharel em psicologia, especialista em psicologia analítica. Estou migrando para a área de cybersecurity com o objetivo de me desenvolver como pentester.
 
 
 
