@@ -78,6 +78,14 @@ Me chamo Lucas Silva Felz, tenho 28 anos. Nascido em Vila Velha - ES. Estudante 
 <br>
 <br>
 
+### Badge TryHackMe
+
+## 🌐 TryHackMe Badge
+
+<img width="329" height="88" alt="lucasfelz" src="https://github.com/user-attachments/assets/d9764326-2489-45a8-911a-35a59b8c4265" />
+
+
+
 ### 📊 Estatísticas
 
 <p>
