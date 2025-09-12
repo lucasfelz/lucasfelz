@@ -147,7 +147,10 @@ tcp    0.0.0.0:443   LISTEN    # HTTPS: LinkedIn Profile
 
 ```bash
 ┌──(root㉿kali)-[~]
-└─$ echo "It is better to sit alone than in company with the bad; and it is better still to sit with the good than alone. It is better to speak to a seeker of knowledge than to remain silent; but silence is better than idle words."  
+└─$ echo "It is better to sit alone than in company with the bad;
+ and it is better still to sit with the good than alone.
+It is better to speak to a seeker of knowledge than to remain silent;
+but silence is better than idle words."  
 └─$ echo "Prophet Muhammad (peace be upon him)"
 
 ┌──(root㉿kali)-[~]
@@ -156,3 +159,4 @@ logout
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d33,50:8b5fbf,100:1a0d33&height=100&section=footer&text=Happy%20Hacking&fontSize=20&fontColor=8b5fbf&animation=twinkling" width="100%" /> </div>
+
