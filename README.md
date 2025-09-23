@@ -103,34 +103,6 @@
 
 <div align="center"> <a href="https://github.com/SEU_USERNAME/projeto1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO1&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" /> </a> <a href="https://github.com/SEU_USERNAME/projeto2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO2&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" /> </a> </div>
 
-## 📈 LEARNING ROADMAP
-
-<div align="center">
-
-```bash
-┌──(root㉿kali)-[~/roadmap]
-└─$ cat learning_path.md
-
-📍 CURRENT FOCUS:
-├── Advanced Web Application Testing
-├── Network Penetration Methodologies  
-├── Scripting & Automation for Security
-└── Preparation for [OSCP/CEH/Security+]
-
-🎯 SHORT TERM GOALS:
-├── Complete 50+ CTF Challenges
-├── Earn Pentest+
-├── Contribute to Open Source Security Tools
-└── Build Personal Lab Environment
-
-🚀 LONG TERM VISION:
-├── Senior Penetration Tester Role
-├── Bug Bounty Hunter
-├── Security Research & CVE Discovery
-└── Cybersecurity Community Contributor
-```
-
-</div>
 
 ## 📞 CONTACT & NETWORKING
 
@@ -145,7 +117,7 @@ tcp    0.0.0.0:80    LISTEN    # HTTP: Portfolio Website
 tcp    0.0.0.0:443   LISTEN    # HTTPS: LinkedIn Profile
 ```
 
-[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:seu.email@exemplo.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/SEU_LINKEDIN) [![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://seu-website.com)
+[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lucasfelz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/lucas-felz) [![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://seu-website.com)
 
 </div>
 
@@ -155,11 +127,7 @@ tcp    0.0.0.0:443   LISTEN    # HTTPS: LinkedIn Profile
 
 ```bash
 ┌──(root㉿kali)-[~]
-└─$ echo "It is better to sit alone than in company with the bad;
- and it is better still to sit with the good than alone.
-It is better to speak to a seeker of knowledge than to remain silent;
-but silence is better than idle words."  
-└─$ echo "Prophet Muhammad (peace be upon him)"
+└─$ echo "'Indeed, with hardship comes ease.' (Qur’an 94:6)"
 
 ┌──(root㉿kali)-[~]
 └─$ exit
