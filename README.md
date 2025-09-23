@@ -52,7 +52,7 @@
     └── 🚩 CTF Problem Solving & Reverse Engineering
 ```
 
-<div align="center">
+<div align="left">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lucasfelz&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/lucasfelz) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-felz/) [![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2596672) [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://https://tryhackme.com/p/lucasfelz)
 
@@ -60,7 +60,7 @@
 
 ## 🛠️ TECHNICAL ARSENAL
 
-<div align="center">
+<div align="left">
 
 **Penetration Testing Tools**  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E4B99?style=flat-square&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -75,7 +75,7 @@
 
 ## 📊 GITHUB STATISTICS
 
-<div align="center">
+<div align="left">
 
 ```bash
 ┌──(root㉿kali)-[~/stats]
@@ -86,7 +86,7 @@
 
 ## 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
-<div align="center">
+<div align="left">
 
 ```bash
 ┌──(root㉿kali)-[~/certifications]
@@ -101,12 +101,12 @@
 
 ## 🚀 FEATURED PROJECTS
 
-<div align="center"> <a href="https://github.com/SEU_USERNAME/projeto1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO1&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" /> </a> <a href="https://github.com/SEU_USERNAME/projeto2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO2&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" /> </a> </div>
+<div align="center"> <a href="https://github.com/lucasfelz/it-learning-projects"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO1&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" /> </a> <a href="https://github.com/SEU_USERNAME/projeto2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO2&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41" /> </a> </div>
 
 
 ## 📞 CONTACT & NETWORKING
 
-<div align="center">
+<div align="left">
 
 ```bash
 ┌──(root㉿kali)-[~/contact]
@@ -117,13 +117,13 @@ tcp    0.0.0.0:80    LISTEN    # HTTP: Portfolio Website
 tcp    0.0.0.0:443   LISTEN    # HTTPS: LinkedIn Profile
 ```
 
-[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lucasfelz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/lucas-felz) [![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://seu-website.com)
+[![Email](https://img.shields.io/badge/Email-8b5fbf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfelz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-8b5fbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-felz) [![Portfolio](https://img.shields.io/badge/Portfolio-8b5fbf?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-website.com)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```bash
 ┌──(root㉿kali)-[~]
