@@ -2,7 +2,7 @@
 
 
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d33,50:8b5fbf,100:1a0d33&height=180&section=header&text=Lucas%20Felz&fontSize=45&animation=fadeIn&fontAlignY=35&desc=🐧%20Ethical%20Hacking%20%7C%20Security%20Research%20🐧&descAlignY=51&descAlign=50&fontColor=c8a8e9" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d33,50:8b5fbf,100:1a0d33&height=180&section=header&text=LUCAS%20FELZ&fontSize=45&animation=fadeIn&fontAlignY=35&desc=🐧%20Ethical%20Hacking%20%7C%20Security%20Research%20🐧&descAlignY=51&descAlign=50&fontColor=c8a8e9" width="100%" /> 
 </div> 
 ## 📋 PROFILE
 
