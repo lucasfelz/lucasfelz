@@ -2,17 +2,8 @@
 
 
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d33,50:8b5fbf,100:1a0d33&height=180&section=header&text=PENTESTER&fontSize=45&animation=fadeIn&fontAlignY=35&desc=🎯%20Ethical%20Hacking%20%7C%20Security%20Research%20🎯&descAlignY=51&descAlign=50&fontColor=c8a8e9" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d33,50:8b5fbf,100:1a0d33&height=180&section=header&text=PENTESTER&fontSize=45&animation=fadeIn&fontAlignY=35&desc=🐧%20Ethical%20Hacking%20%7C%20Security%20Research%20🐧&descAlignY=51&descAlign=50&fontColor=c8a8e9" width="100%" /> 
 </div> 
-
-<div align="center"> 
-<a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=C8A8E9&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=root@kali:~%23+whoami;[+]+Pentester+em+Forma%C3%A7%C3%A3o;" alt="Typing SVG" /> 
-</a> 
-</div>
-
-
-
 ## 📋 PROFILE
 
 ```bash
