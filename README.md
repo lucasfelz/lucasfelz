@@ -9,24 +9,6 @@
 ```bash
 ┌──(root㉿kali)-[~/profile]
 └─$ cat pentester.conf
-
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                       ║
-║     ██╗██████╗      ██████╗ ███████╗███╗   ██╗███████╗████████╗██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██╗       ║
-║     ██║██╔══██╗     ██╔══██╗██╔════╝████╗  ██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║       ║
-║     ██║██████╔╝     ██████╔╝█████╗  ██╔██╗ ██║█████╗     ██║   ██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║       ║
-║██   ██║██╔══██╗     ██╔═══╝ ██╔══╝  ██║╚██╗██║██╔══╝     ██║   ██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║       ║
-║╚█████╔╝██║  ██║     ██║     ███████╗██║ ╚████║███████╗   ██║   ██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║       ║
-║ ╚════╝ ╚═╝  ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝       ║
-║                                                                                                                       ║
-║                        ████████╗███████╗███████╗████████╗███████╗██████╗                                             ║
-║                        ╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗                                            ║
-║                           ██║   █████╗  ███████╗   ██║   █████╗  ██████╔╝                                            ║
-║                           ██║   ██╔══╝  ╚════██║   ██║   ██╔══╝  ██╔══██╗                                            ║
-║                           ██║   ███████╗███████║   ██║   ███████╗██║  ██║                                            ║
-║                           ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝                                            ║
-║                                                                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 [+] Name: Lucas Felz
 [+] Role: Junior Penetration Tester | Security Analyst
 [+] Focus: Web Application Security | Network Security
@@ -39,8 +21,8 @@
     ├── 🔍 OSINT & Reconnaissance Techniques
     ├── 🐧 Linux Security & System Administration
     ├── 🪟 Windows Security & System Administration
-    ├── 📡 Network Security & Wireless Auditing
-    └── 🚩 CTF Problem Solving & Reverse Engineering
+    ├── 📡 Network Security
+    └── 🚩 CTF Problem Solving
 ```
 
 <div align="left">
@@ -125,5 +107,5 @@ tcp    0.0.0.0:443   LISTEN    # HTTPS: LinkedIn Profile
 logout
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d33,50:8b5fbf,100:1a0d33&height=100&section=footer&text=Happy%20Hacking&fontSize=20&fontColor=8b5fbf&animation=twinkling" width="100%" /> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d33,50:8b5fbf,100:1a0d33&height=100&section=footer&text=Wellcome%20to%20my%profile!&fontSize=20&fontColor=8b5fbf&animation=twinkling" width="100%" /> </div>
 
