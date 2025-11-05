@@ -8,16 +8,7 @@
 ## About
 Focused on Web Application Security, Network Penetration Testing, and Privilege Escalation (Linux & Windows). Methodology-driven (OWASP / PTES / MITRE ATT&CK) with clear, actionable reporting.
 
----
-
-## Core Tools
-- **Recon / Network:** Nmap, Masscan, Amass, Gobuster  
-- **Web:** Burp Suite, OWASP ZAP, SQLmap, Nikto, WPScan  
-- **Exploitation / Post-Exploitation:** Metasploit, LinPEAS / WinPEAS, BloodHound, Mimikatz  
-- **Analysis:** Wireshark, tcpdump, Impacket, Responder  
-- **Scripting:** Python, Bash, PowerShell
-
----
+--- 
 
 ## Certifications
 - Google Cybersecurity Professional — completed  
