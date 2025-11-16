@@ -1,11 +1,7 @@
 # Lucas Felz — Junior Penetration Tester 🔐
 
 **Role:** Junior Penetration Tester | Security Analyst  
-**Environment:** Kali Linux · Arch Linux enthusiast
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ---
 
 ## About
