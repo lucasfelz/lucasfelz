@@ -37,8 +37,8 @@ Focused on Web Application Security, Network Penetration Testing, and Privilege 
 
 - **CTF write-ups** — solution write-ups and methodology (HackTheBox / TryHackMe). (coming soon)
 
-- **HomeLab** - A HomeLab based in GOAD (the Game of Active Directory of Orange cyberdefense).
-    Proxmox implementation - Step by Step of proxmox server implementation with pfsense as router/firewall, parental control and deployment of VM's for my own homelab.
+- **HomeLab** - A HomeLab based in GOAD (the Game of Active Directory of Orange cyberdefense).  
+    Proxmox implementation - Step by Step of proxmox server implementation with pfsense as router/firewall, parental control and deployment of VM's for my own homelab.  
     Link: https://github.com/lucasfelz/goad-homelab/
 
 ---
