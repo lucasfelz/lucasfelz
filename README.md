@@ -31,15 +31,15 @@ Focused on Web Application Security, Network Penetration Testing, and Privilege 
 
 ## Featured Projects
 - **AD from scratch** — full implementation of an Active Directory environment from zero, including provisioning, domain setup and user creation automation via PowerShell scripts.  
-  Link: https://github.com/lucasfelz/ad-from-scratch
+    Link: https://github.com/lucasfelz/ad-from-scratch
 
 - **Security templates** — pentest and incident response report templates & checklists. (coming soon)
 
 - **CTF write-ups** — solution write-ups and methodology (HackTheBox / TryHackMe). (coming soon)
 
-- **HomeLab** - A HomeLab based in GOAD (the Game of Active Directory of Orange cyberdefense). (coming soon)
-
-- **Proxmox implementation** - Step by Step of proxmox implementation with firewall, parental control and deployment of VM's for my own homelab. (coming soon)
+- **HomeLab** - A HomeLab based in GOAD (the Game of Active Directory of Orange cyberdefense).
+    Proxmox implementation - Step by Step of proxmox server implementation with pfsense as router/firewall, parental control and deployment of VM's for my own homelab.
+    Link: https://github.com/lucasfelz/goad-homelab/
 
 ---
 
