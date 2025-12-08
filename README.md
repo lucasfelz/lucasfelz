@@ -13,8 +13,8 @@ Focused on Web Application Security, Network Penetration Testing, and Privilege 
 --- 
 
 ## Certifications
-- Google Cybersecurity Professional — completed  
-- eJPT — in progress
+- eJPT
+- Google Cybersecurity Professional
 
 [![Google Cybersecurity Professional](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 [![eJPT](https://img.shields.io/badge/eJPT_(INE)-00A4EF?style=flat-square&logo=ine&logoColor=white)](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester)
