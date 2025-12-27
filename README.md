@@ -35,7 +35,7 @@ Focused on Web Application Security, Network Penetration Testing, and Privilege 
 
 - **Security templates** — pentest and incident response report templates & checklists. (coming soon)
 
-- **CTF write-ups** — solution write-ups and methodology (HackTheBox / TryHackMe).
+- **CTF write-ups** — solution write-ups and methodology (HackTheBox / TryHackMe).    
       Link: https://lucasfelz.github.io
 
 - **HomeLab** - A HomeLab based in GOAD (the Game of Active Directory of Orange cyberdefense).  
