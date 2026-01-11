@@ -33,14 +33,17 @@ Focused on Web Application Security, Network Penetration Testing, and Privilege 
 - **AD from scratch** — full implementation of an Active Directory environment from zero, including provisioning, domain setup and user creation automation via PowerShell scripts.  
     Link: https://github.com/lucasfelz/ad-from-scratch
 
+- **Python Port Scanner** — TCP port scanner developed in Python, supporting multi-port scanning and exception handling, focused on reconnaissance during penetration testing engagements.  
+    Link: https://github.com/lucasfelz/python-port-scan
+
 - **Security templates** — pentest and incident response report templates & checklists. (coming soon)
 
-- **CTF write-ups** — solution write-ups and methodology (HackTheBox / TryHackMe).    
-      Link: https://lucasfelz.github.io
+- **CTF write-ups** — solution write-ups and methodology (HackTheBox / TryHackMe).  
+    Link: https://lucasfelz.github.io
 
-- **HomeLab** - A HomeLab based in GOAD (the Game of Active Directory of Orange cyberdefense).  
-    Proxmox implementation - Step by Step of proxmox server implementation with pfsense as router/firewall, parental control and deployment of VM's for my own homelab.  
+- **HomeLab** — HomeLab based on GOAD (Game of Active Directory), with Proxmox implementation, pfSense as router/firewall, parental control, and deployment of multiple VMs for offensive security practice.  
     Link: https://github.com/lucasfelz/goad-homelab/
+
 
 ---
 
