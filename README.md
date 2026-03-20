@@ -1,6 +1,6 @@
 # Lucas Silva Felz · Penetration Tester 🔐
 
-**Pentester · eJPT | CRTA | WEB-RTA | CNSP · HTB 300d+ · GOAD/AD homelab · ES/BR → 🌍**
+**Pentester · eJPT | CRTA | WEB-RTA | CNSP · GOAD/AD homelab · ES/BR → 🌍**
 
 ---
 
