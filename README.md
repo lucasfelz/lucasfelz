@@ -1,59 +1,65 @@
-# Lucas Felz — Junior Penetration Tester 🔐
+# Lucas Silva Felz · Penetration Tester 🔐
 
-**Role:** Junior Penetration Tester | Security Analyst  
+**Pentester · eJPT | CRTA | WEB-RTA | CNSP · HTB 300d+ · GOAD/AD homelab · ES/BR → 🌍**
 
 ---
 
 ## About
-Focused on Web Application Security, Network Penetration Testing, and Privilege Escalation (Linux & Windows). Methodology-driven (OWASP / PTES / MITRE ATT&CK) with clear, actionable reporting.
 
-[![OWASP](https://img.shields.io/badge/OWASP-Top_10-FF5722?style=flat-square&logo=owasp&logoColor=white)](https://owasp.org/)
-[![PTS](https://img.shields.io/badge/PTS-Penetration_Testing-008080?style=flat-square&logo=shield&logoColor=white)]()
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Threat_Intelligence-002E6D?style=flat-square&logo=mitre&logoColor=white)](https://attack.mitre.org/)
---- 
+Offensive security practitioner focused on **Web Application Pentesting**, **Active Directory attacks**, and **Network Penetration Testing**. Methodology-driven (OWASP / PTES / MITRE ATT&CK).
 
-## Certifications
-- eJPT
-- CRTA
-- WEB-RTA
-- CNSP
-- Google Cybersecurity Professional
+Currently working in hospital IT support while actively transitioning into full-time offensive security.
 
-[![Google Cybersecurity Professional](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
-[![eJPT](https://img.shields.io/badge/eJPT_(INE)-00A4EF?style=flat-square&logo=ine&logoColor=white)](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester)
 ---
 
-### 💻 Programming & Scripting
+## Currently Working On
 
+- 🏠 **GOAD homelab** on Proxmox — AD attack/defense lab
+- ✍️ CTF write-ups at [lucasfelz.github.io](https://lucasfelz.github.io)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+---
+
+## Certifications
+
+[![eJPT](https://img.shields.io/badge/eJPT-INE-00A4EF?style=flat-square&logo=ine&logoColor=white)](https://ine.com)
+[![CRTA](https://img.shields.io/badge/CRTA-CyberWarfare-DC143C?style=flat-square&logoColor=white)](https://cyberwarfare.live)
+[![WEB-RTA](https://img.shields.io/badge/WEB--RTA-CyberWarfare-DC143C?style=flat-square&logoColor=white)](https://cyberwarfare.live)
+[![CNSP](https://img.shields.io/badge/CNSP-SecOps-1A1A2E?style=flat-square&logoColor=white)](https://secops.group)
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+---
+
+## Skills
+
+### Offensive Security
+![Web Pentesting](https://img.shields.io/badge/Web_Pentesting-OWASP-FF5722?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active_Directory-Attacks-8B0000?style=flat-square) ![Network Pentesting](https://img.shields.io/badge/Network_Pentesting-PTES-008080?style=flat-square) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-002E6D?style=flat-square) ![Network Security](https://img.shields.io/badge/Network_Security-005F73?style=flat-square)
+
+### Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square) ![Impacket](https://img.shields.io/badge/Impacket-AD-8B0000?style=flat-square) ![BloodHound](https://img.shields.io/badge/BloodHound-AD-red?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square)
+
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ---
 
 ## Featured Projects
-- **AD from scratch** — full implementation of an Active Directory environment from zero, including provisioning, domain setup and user creation automation via PowerShell scripts.  
-    Link: https://github.com/lucasfelz/ad-from-scratch
 
-- **Python Port Scanner** — TCP port scanner developed in Python, supporting multi-port scanning and exception handling, focused on reconnaissance during penetration testing engagements.  
-    Link: https://github.com/lucasfelz/python-port-scan
-
-- **Security templates** — pentest and incident response report templates & checklists. (coming soon)
-
-- **CTF write-ups** — solution write-ups and methodology (HackTheBox / TryHackMe).  
-    Link: https://lucasfelz.github.io
-
-- **HomeLab** — HomeLab based on GOAD (Game of Active Directory), with Proxmox implementation, pfSense as router/firewall, parental control, and deployment of multiple VMs for offensive security practice.  
-    Link: https://github.com/lucasfelz/goad-homelab/
-
+| Project | Description |
+|---|---|
+| [🏰 GOAD Homelab](https://github.com/lucasfelz/goad-homelab) | Active Directory attack lab — Proxmox + pfSense + GOAD, full documentation |
+| [🗂️ AD from Scratch](https://github.com/lucasfelz/ad-from-scratch) | AD environment built from zero with PowerShell automation |
+| [🔍 Python Port Scanner](https://github.com/lucasfelz/python-port-scan) | TCP scanner with multi-port support for recon engagements |
+| [✍️ CTF Write-ups](https://lucasfelz.github.io) | HackTheBox & TryHackMe solutions with methodology |
+| [📄 Security Templates](https://github.com/lucasfelz) | Pentest & IR report templates — coming soon |
 
 ---
 
-## Contact
-- LinkedIn: https://linkedin.com/in/lucas-felz  
-- GitHub: https://github.com/lucasfelz
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--felz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-felz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cyberkyusho.com-FF6B00?style=flat-square&logo=firefox&logoColor=white)](https://cyberkyusho.com)
+[![HTB](https://img.shields.io/badge/HackTheBox-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
 
 ---
 
-> All testing is performed only in authorized environments.
+> ⚠️ All testing performed exclusively in authorized environments and personal labs.
