@@ -19,6 +19,17 @@ Currently working in hospital IT support while actively transitioning into full-
 
 ---
 
+## Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasfelz&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lucasfelz&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lucasfelz&style=flat-square&color=FF6B00)
+
+## Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=lucasfelz&theme=darkhub&no-frame=true&row=1&column=6)
+
 ## Certifications
 
 [![eJPT](https://img.shields.io/badge/eJPT-INE-00A4EF?style=flat-square&logo=ine&logoColor=white)](https://ine.com)
