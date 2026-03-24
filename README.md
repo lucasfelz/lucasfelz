@@ -8,7 +8,7 @@
 
 Offensive security practitioner focused on **Web Application Pentesting**, **Active Directory attacks**, and **Network Penetration Testing**. Methodology-driven (OWASP / PTES / MITRE ATT&CK).
 
-Currently working in hospital IT support while actively transitioning into full-time offensive security.
+Currently working in Ayko Technology as Technical Support Analyst N2 while actively transitioning into full-time offensive security.
 
 ---
 
