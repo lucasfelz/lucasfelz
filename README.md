@@ -7,7 +7,7 @@ eJPT · CRTA · WEB-RTA · CNSP · ES/BR
 Transitioning from NOC/N2 into offensive security.
 Focus: Web pentesting, Active Directory, network recon.
 
-Currently: GOAD homelab on Proxmox · OSCP prep · CTF write-ups at [lucasfelz.github.io](https://lucasfelz.github.io)
+Currently: GOAD homelab on Proxmox · OSCP prep · CTF write-ups at [lucasfelz.github.io](https://cyberkyusho.com)
 
 ---
 
